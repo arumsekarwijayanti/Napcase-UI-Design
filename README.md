@@ -10,7 +10,7 @@ Desain UI untuk aplikasi e-commerce Napcase. Proyek ini berfokus pada estetika a
 
 # Tools
 - Figma
--Pinterest
+- Pinterest
 
 # Link Figma 
   - Link Figma Desain UI/UX versi website: https://www.figma.com/design/GbJRgEABFY5HToLfSIrlJB/UAS-KELOMPOK-6?node-id=36-143&t=DozCQYDJGQ0wwkHa-1
